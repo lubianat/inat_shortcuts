@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "iNat Shortcuts",
-  "description": "Adds keyboard shortcuts for Fusion, Duplication, Removing Observation, and Captive/Cultivated checkbox toggle on iNaturalist.",
+  "description": "Adds keyboard shortcuts for Fusion (F), Duplication (D), Removing Observation (R), and Captive/Cultivated checkbox toggle (C) on the iNaturalist upload interface. /n Open source at https://github.com/lubianat/inat_shortcuts .",
   "version": "1.1",
   "permissions": ["activeTab"],
   "content_scripts": [{
